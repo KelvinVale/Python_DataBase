@@ -1,20 +1,20 @@
 # Python_DataBase
-Código simples aplicando Interface gráfica com manipulação de DB.
+Simple code to use graphic interface and manipulate database (SQL) using python.
 
+To run the code, it is necessary to meet the following requirements:
 
-Para executar o código desta pasta, deve-se cumprir os seguintes prerrequisitos:
+Have python compiller
 
-possuir python3
-
-instalar os seguintes pacotes:
+And install packages:
 
 	sqlite3			-	sudo apt install sqlite3
 	PySimpleGUI		-	pip3 install pysimplegui
 	tkinter			-	sudo apt-get install python3-tk
 
-
-Para executar o programa:
+To run it:
 	
 	python3 my_interface_python.py
+	
+
 
 
